@@ -1,0 +1,20 @@
+.home {
+  text-align: center;
+  padding: 2rem;
+}
+.title {
+  font-size: 2rem;
+  color: #9a031e;
+  margin-bottom: 1.5rem;
+}
+.hero-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.hero-img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}

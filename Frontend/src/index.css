@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fefefe;
+  color: #333;
+}
+button {
+  font-family: inherit;
+}
